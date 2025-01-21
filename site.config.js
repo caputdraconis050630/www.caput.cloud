@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "caput-log",
-    description: "welcome to caput-log!",
+    title: "caput.cloud",
+    description: "this and that",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
