@@ -15,6 +15,10 @@ const CONFIG = {
       name: `rolling-face`,
       href: "https://www.youtube.com/watch?v=RRWL4VfMY4k&list=PLX2fs3661XpPCc9wfHkc16TSs4DsNWL6R&index=14",
     },
+    {
+      name: `geul-go`,
+      href: "https://github.com/caputdraconis050630/geul-go",
+    },
   ],
   // blog setting (required)
   blog: {
