@@ -19,6 +19,10 @@ const CONFIG = {
       name: `geulk-go`,
       href: "https://github.com/caputdraconis050630/geulk-go",
     },
+    {
+      name: `slack channel invitor`,
+      href: "https://www.caput.cloud/slack-invitor",
+    },
   ],
   // blog setting (required)
   blog: {
