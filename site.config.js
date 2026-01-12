@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "김건탁(caput)",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Researcher @ Inha Univ",
-    bio: "🦦 I'm deep in Cloud, Networks",
+    role: "Student",
+    bio: "🦦",
     email: "caputdraconis@kakao.com",
     linkedin: "caputdraconis",
     github: "caputdraconis050630",
